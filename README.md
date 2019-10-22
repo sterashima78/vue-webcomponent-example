@@ -1,5 +1,9 @@
 # vue-webcomponent-example
 
+VuejsでWebComponentを作って使うやつ
+
+Qiita: https://qiita.com/sterashima78/items/2d700a2f83bfae3fa8ea
+
 ## Project setup
 ```
 npm install
